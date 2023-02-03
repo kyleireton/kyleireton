@@ -2,8 +2,8 @@
 
 install.packages("usethis")
 # Add authentication information: Use your GitHub user name and associated email address.
-usethis::use_git_config(user.name = "eugenin1",
-                        user.email = "nicholas.eugenio@businesspartner.roche.com")
+usethis::use_git_config(user.name = "nicholaswe",
+                        user.email = "nicholaswe@gmail.com")
 
 # Initiate git:
 usethis::use_git()
