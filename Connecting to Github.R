@@ -12,6 +12,8 @@ usethis::use_git()
 usethis::create_github_token()
 # This takes you to github. Choose settings, create GH-Token (store it in a password manager).
 
+# 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
+
 # Now use:
 gitcreds::gitcreds_set()
 # And enter the created GH-Token in the R console when prompted
