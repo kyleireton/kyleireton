@@ -1,0 +1,15 @@
+---
+title: "ADSL work"
+output: html_notebook
+---
+
+Let's get cracking with ADSL in this RMd doc...
+
+first, read in libraries... 
+
+```{r}
+
+
+
+```
+
