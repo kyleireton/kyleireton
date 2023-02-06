@@ -21,5 +21,7 @@ gitcreds::gitcreds_set()
 # Create GitHub repo using:
 usethis::use_github()
 
-#it is fine
+#it is fine :Nelson Murcia
+# does it work?: Nelson Murcia
+
 
