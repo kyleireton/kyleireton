@@ -3,7 +3,7 @@ install.packages("usethis")
 
 # Fill with your Github credentials
 
-usethis::use_git_config(user.name = "iretonkyle",
+usethis::use_git_config(user.name = "kyleireton",
                         user.email = "kyle.ireton@gmail.com")
 
 # Each person needs to create its own Token (do it only in the first time)
