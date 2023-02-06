@@ -22,6 +22,5 @@ gitcreds::gitcreds_set()
 usethis::use_github()
 
 #it is fine :Nelson Murcia
-# does it work?: Nelson Murcia
-
+# does it work?: Nelson Murcia ##
 
