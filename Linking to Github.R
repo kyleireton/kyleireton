@@ -10,7 +10,7 @@ usethis::use_git_config(user.name = "username",
 
 usethis::create_github_token()
 
-# Insert the created token
+# Insert the created token (do it only in the first time)
 
 gitcreds::gitcreds_set()
 
